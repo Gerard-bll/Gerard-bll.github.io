@@ -14,4 +14,4 @@ Welcome to my portfolio. Here I document my technical projects, ranging from dat
   *Final thesis for the Master's degree in Big Data.*
 
 ---
-[LinkedIn](www.linkedin.com/in/gerard-bogunyà-llinás-078549263) | [GitHub](https://github.com/Gerard-bll)
+[LinkedIn]([www.linkedin.com/in/gerard-bogunyà-llinás-078549263](https://www.linkedin.com/in/gerard-bogunyà-llinás-078549263)) | [GitHub](https://github.com/Gerard-bll)
