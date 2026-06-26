@@ -5,11 +5,9 @@ Welcome to my portfolio. Here I document my technical projects, ranging from dat
 
 ### 🚀 Featured Projects
 
-* **[Relational Database Migration (Excel to PostgreSQL)](#)** *Developed a Python ETL script to migrate historical records for a local cultural association from decentralized spreadsheets into a structured PostgreSQL database.*
-* **[Creation of a chatbot](#)**
-  *Development of a chatbot to act as a source of information about a cultural organization*
-* **Master's Thesis (Coming Soon - September 2026)**
-  *Final thesis for the Master's degree in Big Data.*
+* **[Relational Database Migration (Excel to PostgreSQL)](#)** - Developed a Python ETL script to migrate historical records for a local cultural association from decentralized spreadsheets into a structured PostgreSQL database.
+* **[Interactive Information Chatbot](#)** - Developed an NLP-driven chatbot to act as an automated source of information about a cultural organization.
+* **[Master's Thesis: Data Mining Project](https://github.com/Gerard-bll/Data_minning)** - Final thesis project for the Master's degree in Big Data, focusing on advanced data mining, predictive modeling, and analytics (Coming Soon - September 2026).
 
 ---
-[LinkedIn](https://www.linkedin.com/in/gerard-bogunyà-llinás-078549263) | [GitHub](https://github.com/Gerard-bll)
+[LinkedIn](https://www.linkedin.com/in/gerard-boguny%C3%A0-llin%C3%A1s-078549263) | [GitHub](https://github.com/Gerard-bll)
