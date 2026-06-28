@@ -5,6 +5,7 @@ Welcome to my portfolio. Here I document my technical projects, ranging from dat
 
 ### 🚀 Featured Projects
 
+* **[Fashion-MNIST Image Classification Pipeline](https://github.com/Gerard-bll/fashion-mnist-classification)** - An end-to-end classification pipeline comparing classical Machine Learning ensembles (Random Forest, Logistic Regression) against a custom Deep Learning Convolutional Neural Network (CNN), integrated with a Generative AI semantic search engine. *(Tech Stack: Python, Scikit-Learn, TensorFlow, HuggingFace)*
 * **[Relational Database Migration (Excel to PostgreSQL)](#)** - Developed a Python ETL script to migrate historical records for a local cultural association from decentralized spreadsheets into a structured PostgreSQL database.
 * **[Interactive Information Chatbot](#)** - Developed an NLP-driven chatbot to act as an automated source of information about a cultural organization.
 * **[Master's Thesis: Data Mining Project](https://github.com/Gerard-bll/Data_minning)** - Final thesis project for the Master's degree in Big Data, focusing on advanced data mining, predictive modeling, and analytics (Coming Soon - September 2026).
